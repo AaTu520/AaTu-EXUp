@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "aatu_exup",
+  "version": "${version}",
+  "name": "AaTu_EXUp",
+  "description": "使用属性强化书和配置的消耗物品在锻造台强化武器和盔甲，保留原有附魔并随机增加属性。仅玩家击杀且最大生命值达到配置阈值的生物有概率掉落书籍。",
+  "authors": [
+    "AaTu"
+  ],
+  "license": "GPL-3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.blockforge.aatu_exup.AaTu_EXUp_Mod"
+    ],
+    "client": [
+      "cn.blockforge.aatu_exup.AaTu_EXUp_Client"
+    ],
+    "modmenu": [
+      "cn.blockforge.aatu_exup.AaTu_EXUp_ModMenu"
+    ]
+  },
+  "mixins": [
+    "aatu_exup.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "fabric-api": "*",
+    "minecraft": "1.21.1",
+    "java": ">=21"
+  },
+  "suggests": {
+    "jei": "*"
+  }
+}

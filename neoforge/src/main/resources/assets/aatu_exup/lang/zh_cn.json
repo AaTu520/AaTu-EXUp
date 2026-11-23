@@ -1,0 +1,22 @@
+{
+  "item.aatu_exup.attribute_enhancement_book": "属性强化书",
+  "item.aatu_exup.attribute_enhancement_book.lore_flavor": "以灵为引，淬器成锋",
+  "item.aatu_exup.attribute_enhancement_book.lore_use": "使用锻造台使用，获得一项武器属性加成",
+  "item.aatu_exup.attribute_enhancement_book.lore_cost": "每次强化消耗1%s与",
+  "item.aatu_exup.attribute_enhancement_book.lore_point": "1注灵",
+  "item.aatu_exup.attribute_enhancement_book.lore_penetration": "可获得强力贯通属性",
+  "item.aatu_exup.soul_infusion_book": "注灵书",
+  "item.aatu_exup.soul_infusion_book.lore_flavor": "封存着尚未苏醒的器灵",
+  "item.aatu_exup.soul_infusion_book.lore_use": "使用锻造台使用，获得%s点注灵",
+  "item.aatu_exup.soul_infusion_book.lore_cost": "每次注灵消耗1%s",
+  "item.aatu_exup.soul_infusion_book.lore_limit": "注灵上限%s点",
+  "tooltip.aatu_exup.soul": "注灵：%s",
+  "tooltip.aatu_exup.enhancement_total": "强化属性总值",
+  "tooltip.aatu_exup.attribute_total": "+%s %s",
+  "attribute.name.aatu_exup.penetration": "贯通",
+  "attribute.name.generic.movement_speed": "移动速度",
+  "message.aatu_exup.soul_infusion_success": "注入了 %s 点注灵，当前注灵：%s",
+  "message.aatu_exup.soul_infusion_full": "装备的注灵已达到上限：%s",
+  "death.attack.aatu_exup_penetration": "%1$s 被 %2$s 的贯通伤害击败了",
+  "death.attack.aatu_exup_penetration.player": "%1$s 被 %2$s 的贯通伤害击败了"
+}

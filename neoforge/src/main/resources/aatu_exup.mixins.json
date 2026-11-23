@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.blockforge.aatu_exup.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "compat.ConfiguredNeoForgeConfigMixin",
+    "common.ArmorAttributeSlotsMixin",
+    "common.ArmorEnchantmentSlotsMixin"
+  ],
+  "client": [
+    "client.SmithingScreenMixin",
+    "client.WeaponAttributeTooltipMixin",
+    "client.SimplyTooltipsWeaponMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

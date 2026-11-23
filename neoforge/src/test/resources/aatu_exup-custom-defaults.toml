@@ -1,0 +1,54 @@
+[drops]
+attribute_book_drop_chance = 0.25
+soul_infusion_book_drop_chance = 0.25
+drop_minimum_health = 400.0
+[enhancement]
+cost_item = "minecraft:nether_star"
+[soul]
+injection_max = 5
+injection_min = 1
+cost_item = "minecraft:diamond"
+[attributes]
+penetration_damage_ratio = 0.5
+attack_damage_limit = 233.0
+attack_damage_min = 0.5
+attack_damage_max = 3.5
+attack_speed_limit = 1.2
+attack_speed_min = 0.05
+attack_speed_max = 0.2
+penetration_limit = 1.0
+penetration_min = 0.01
+penetration_max = 0.05
+penetration_affects_players = false
+armor_limit = 233.0
+armor_min = 0.5
+armor_max = 2.0
+armor_toughness_limit = 233.0
+armor_toughness_min = 0.5
+armor_toughness_max = 1.5
+armor_health_limit = 20.0
+armor_health_min = 1.0
+armor_health_max = 1.0
+armor_speed_limit = 0.05
+armor_speed_min = 0.01
+armor_speed_max = 0.02
+[forbidden_knowledge.attributes]
+ranged_damage_max = 3.5
+ranged_damage_limit = 233.0
+spell_power_min = 0.5
+spell_power_max = 3.5
+spell_power_limit = 233.0
+healing_min = 0.5
+healing_max = 2.5
+healing_limit = 60.0
+ranged_damage_min = 0.5
+spell_penetration_min = 0.01
+spell_penetration_max = 0.05
+spell_penetration_limit = 1.0
+spell_penetration_damage_ratio = 0.5
+spell_penetration_affects_players = false
+[forbidden_knowledge.drops]
+book_drop_chance = 0.25
+minimum_health = 400.0
+[forbidden_knowledge.enhancement]
+cost_item = "minecraft:nether_star"

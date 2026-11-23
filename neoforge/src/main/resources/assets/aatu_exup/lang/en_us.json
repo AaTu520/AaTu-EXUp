@@ -1,0 +1,22 @@
+{
+  "item.aatu_exup.attribute_enhancement_book": "Attribute Enhancement Book",
+  "item.aatu_exup.attribute_enhancement_book.lore_flavor": "Guided by spirit, the weapon is forged anew",
+  "item.aatu_exup.attribute_enhancement_book.lore_use": "Use at a smithing table to gain one weapon attribute bonus",
+  "item.aatu_exup.attribute_enhancement_book.lore_cost": "Each enhancement consumes 1 %s and ",
+  "item.aatu_exup.attribute_enhancement_book.lore_point": "1 infusion",
+  "item.aatu_exup.attribute_enhancement_book.lore_penetration": "Can grant powerful penetration",
+  "item.aatu_exup.soul_infusion_book": "Spirit Infusion Book",
+  "item.aatu_exup.soul_infusion_book.lore_flavor": "A dormant weapon spirit is sealed within",
+  "item.aatu_exup.soul_infusion_book.lore_use": "Use at a smithing table to gain %s infusion",
+  "item.aatu_exup.soul_infusion_book.lore_cost": "Each infusion consumes 1 %s",
+  "item.aatu_exup.soul_infusion_book.lore_limit": "Infusion limit: %s",
+  "tooltip.aatu_exup.soul": "Infusion: %s",
+  "tooltip.aatu_exup.enhancement_total": "Total enhancement attributes",
+  "tooltip.aatu_exup.attribute_total": "+%s %s",
+  "attribute.name.aatu_exup.penetration": "Penetration",
+  "attribute.name.generic.movement_speed": "Movement Speed",
+  "message.aatu_exup.soul_infusion_success": "Added %s infusion; current infusion: %s",
+  "message.aatu_exup.soul_infusion_full": "The equipment has reached the infusion limit: %s",
+  "death.attack.aatu_exup_penetration": "%1$s was pierced by %2$s",
+  "death.attack.aatu_exup_penetration.player": "%1$s was pierced by %2$s"
+}
